@@ -1,4 +1,2 @@
 # ple
-Physical-Engineering’s Last Exam
-
-WIP
+[Physical-Engineering’s Last Exam](https://www.kaggle.com/competitions/physical-engineerings-last-exam/overview?reference-id=4725149&subject=4725149&status=completed&fields%5Bcurrent-selfie%5D%5Btype%5D=selfie&fields%5Bcurrent-selfie%5D%5Bvalue%5D%5Bid%5D=self_A7UTz9k1YqDLLPKAwqerzHzjtYG7Ce&fields%5Bcurrent-selfie%5D%5Bvalue%5D%5Btype%5D=Selfie%3A%3AProfileAndCenter&inquiry-id=inq_A7UTz9kV4WYdvrWU8K2y1CVUN8eMid)
